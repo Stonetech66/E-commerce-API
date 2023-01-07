@@ -6,8 +6,9 @@ An E-commerce API built with DjangoRestFramework and stripe for the payment gate
 - clear cart
 - Add coupons
 - verified purchase review
-- payment
+- make payment
 - Request refund
+- add shipping address/ use default shipping address / list all adresses
 
 
 ##  Language Used
