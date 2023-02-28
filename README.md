@@ -1,4 +1,4 @@
-<h1 align="center">E-commerce API</h1>
+<h1 align="center">E-commerce DRF</h1>
 An E-commerce API built with DjangoRestFramework and stripe for the payment gateway
 
 ## Major Features
